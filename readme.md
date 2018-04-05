@@ -8,7 +8,7 @@ This type of list was originally published [here](https://web.archive.org/web/20
 
 The full list of flags for your local version of ffmpeg can be generated via `ffmpeg -h full`. This repo just exists to format it nicely and make it easily searchable by folks on the interwebs. I've also tried to break the options up into more manageable sections.
 
-**Note: Apparently, GitHub has a limit to the length of Markdown files it allows and this list exceeds it.** If you know any way around this limitation, please let me know.
+**Note: Apparently, GitHub has a limit to the length of Markdown files it displays on repo landing pages.** View the readme directly [here](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) for the full list in all its markdown-y goodness.
 
 ## Table of Contents
 
