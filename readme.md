@@ -20,8 +20,8 @@ The full list of flags for your local version of ffmpeg can be generated via `ff
 - [Audio options](#audio-options)
 - [Subtitle options](#subtitle-options)
 - [Encoder & Decoder Options](#encoder--decoder-options)
-- [Demuxer Decoding Options](#demuxer-decoding-options)
-- [Muxer Encoding Options](#muxer-encoding-options)
+- [Demuxer Options](#demuxer-options)
+- [Muxer Options](#muxer-options)
 - [AVFilter Audio](#avfilter-audio)
 - [AVFilter Video](#avfilter-video)
 - [AVFilter Drawing](#avfilter-drawing)
@@ -3215,7 +3215,7 @@ H.263 encoder AVOptions
   -dumpgraph         <string>     .D...... dump graph to stderr
 ```
 
-#### Demuxer Decoding Options
+#### Demuxer Options
 
 ###### aa AVOptions
 
@@ -4350,7 +4350,7 @@ H.263 encoder AVOptions
      ns                           .D...... nano second precision
 ```
 
-#### Muxer Encoding Options
+#### Muxer Options
 
 ###### ADTS muxer AVOptions
 
