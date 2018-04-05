@@ -1587,7 +1587,7 @@ cljr encoder AVOptions
 
 ###### MPEG4 Video Decoder AVOptions
 
-####### msmpeg4v2 encoder AVOptions
+###### msmpeg4v2 encoder AVOptions
 
 ```
   -mpv_flags         <flags>      E..V.... Flags common for all mpegvideo-based encoders. (default 0)
@@ -1650,7 +1650,7 @@ cljr encoder AVOptions
   -mepre             <int>        E..V.... pre motion estimation (from INT_MIN to INT_MAX) (default 0)
 ```
 
-####### msmpeg4v3 encoder AVOptions
+###### msmpeg4v3 encoder AVOptions
 
 ```
   -mpv_flags         <flags>      E..V.... Flags common for all mpegvideo-based encoders. (default 0)
