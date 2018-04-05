@@ -1587,9 +1587,9 @@ cljr encoder AVOptions
 
 ###### MPEG4 Video Decoder AVOptions
 
-```
-
 ####### msmpeg4v2 encoder AVOptions
+
+```
   -mpv_flags         <flags>      E..V.... Flags common for all mpegvideo-based encoders. (default 0)
      skip_rd                      E..V.... RD optimal MB level residual skipping
      strict_gop                   E..V.... Strictly enforce gop size
@@ -1648,8 +1648,11 @@ cljr encoder AVOptions
   -ps                <int>        E..V.... RTP payload size in bytes (from INT_MIN to INT_MAX) (default 0)
   -mepc              <int>        E..V.... Motion estimation bitrate penalty compensation (1.0 = 256) (from INT_MIN to INT_MAX) (default 256)
   -mepre             <int>        E..V.... pre motion estimation (from INT_MIN to INT_MAX) (default 0)
+```
 
 ####### msmpeg4v3 encoder AVOptions
+
+```
   -mpv_flags         <flags>      E..V.... Flags common for all mpegvideo-based encoders. (default 0)
      skip_rd                      E..V.... RD optimal MB level residual skipping
      strict_gop                   E..V.... Strictly enforce gop size
